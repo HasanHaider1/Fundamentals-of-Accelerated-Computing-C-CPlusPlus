@@ -1,2 +1,4 @@
 # Nvidia Course: Fundamentals of Accelerated Computing C/C++
-GPU Course Labs
+CS-432: 
+  GPU: Accelerated Computing 
+  Course Labs
